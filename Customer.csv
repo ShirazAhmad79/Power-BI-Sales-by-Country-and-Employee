@@ -1,0 +1,272 @@
+Customer_ID,Customer_Credit_ID,Customer_Name,Contact_Name,Contact_Position,Last_Years_Sales,Address1,Address2,Address3,Postal_Code,Lat,Long,Email,Phone,Fax
+1,1,City Cyclists,Mr. Chris Christianson,(Sales Manager),20045.2725,7464 South Kingsway,Suite 2006,Arras:Nord Pas-de-Calais:France,48358,50.292,2.78,Christianson@bba.com,810-939-6479,810-939-6602
+2,2,Pathfinders,Miss Christine Manley,(Sales Representative),26369.63,410 Eighth Avenue,,Bristol:Avon:England,60148,51.453611,-2.5975,Manley@arubasport.com,815-756-9831,815-756-7536
+3,3,Bike-A-Holics Anonymous,Mr. Gary Jannis,(Sales Associate),4500,7429 Arbutus Boulevard,Suite 2017,Singapore:Singapore:Singapore,43005,1.283333,103.833333,Jannis@downunderbikes.com,614-759-9924,614-759-6343
+4,4,Psycho-Cycle,Mr. Alexander Mast,(Sales Representative),52809.105,8287 Scott Road,,Panama:Panama:Panama,35818,9,-80,Mast@canbikes.com,205-430-0587,205-430-7737
+5,5,Sporting Wheels Inc.,Mr. Patrick Reyess,(Sales Associate),85642.56,480 Grant Way,Suite 1110,Ciudad de Mexico:Distrito Federal:Mexico,92150,19.433333,-99.133333,Reyess@kangerootrikes.com,619-457-3186,619-457-9017
+6,6,Rockshocks for Jocks,Ms. Heather Davis,(Sales Representative),40778.5225,1984 Sydney Street,,Yokohama:Kanagawa Ken:Japan,78770,35.444167,139.638056,Davis@brucebikes.com,512-349-7705,512-349-4983
+7,7,Poser Cycles,Mr. Alex Smith,(Sales Agent),10923,8194 Peter Avenue,,Beaconsfield:PQ:Canada,55360,45.4333333,-73.866667,Smith@peddlesofperth.com,612-947-4320,612-947-9422
+8,8,Spokes 'N Wheels Ltd.,Miss Kristina Chester,(Sales Representative),25521.305,3802 Georgia Court,,Hanoi:Hanoi:Vietnam,50305,21,105.85,Chester@koalaroad.com,515-237-7769,515-237-9671
+9,9,Trail Blazer's Place,Mrs. Alexandra Burris,(Owner),123658.46,6938 Beach Street,,New Plymouth:Taranaki:New Zealand,53795,-39.057778,174.074167,Burris@devilbikes.com,608-273-4883,608-273-0423
+10,10,Rowdy Rims Company,Dr. Anthony Shoemaker,(Sales Agent),30131.455,4861 Second Road,,Kuala Lumpur:Kuala Lumpur:Malaysia,91341,3.147778,101.695278,Shoemaker@piccolobike.com,805-375-0117,805-375-3533
+11,11,Clean Air Transportation Co.,Mr. Bill Carter,(Sales Associate),23789.245,1867 Thurlow Lane,Suite 1304,Essen:Nordrhein-Westfalen:Germany,19453,51.450833,7.013056,Carter@BCS.com,610-941-5771,610-941-0216
+12,12,Hooked on Helmets,Mr. Gerry Wade,(Owner),52963.8225,7655 Mayberry Crescent,Suite 209,Halifax:NS:Canada,55327,44.6475,-63.590556,Wade@dhakabike.com,612-947-3344,612-947-6477
+13,13,C-Gate Cycle Shoppe,Mr. Matthew Banks,(Owner),29618.11,413 Robson Lane,Suite 1809,Cancun:Quintana Roo:Mexico,22618,21.160556,-86.8475,Banks@barbadossports.com,540-662-7167,540-662-2730
+14,14,Alley Cat Cycles,Mr. Rick Pratt,(Owner),298356.22,1842 St. Anne Place,Suite 618,Cardiff:South Glamorgan:Wales,01733,51.483333,-3.183333,Pratt@belgiumbike.com,508-287-8535,508-28-73694
+15,15,The Bike Cellar,Mr. Christopher Carmine,(Sales Manager),30938.665,8404 Nelson Lane,Suite 2512,Mazatlan:Sinaloa:Mexico,22616,23.216667,-106.416667,Carmine@royalcycle.com,540-662-2540,540-662-1333
+16,16,Hercules Mountain Bikes,Mr. James Sergent,(Sales Manager),18000,8586 St. Andrew Crescent,,Nottingham:Nottinghamshire:England,60187,52.9561,-1.1512,Sergent@biccm.com,815-756-1819,815-756-7443
+17,17,Whistler Rentals,Mr. Will Castillo,(Owner),68000,4501 Third Street,Suite 913,São Paulo:São Paulo:Brazil,97051,-23.55,-46.633333,Castillo@brasiliaoutdoors.com,503-647-3363,503-647-5593
+18,18,Bikes and Trikes,Mr. Ian Kelly,(Owner),12000,2793 Highland Boulevard,,Maidenhead:Berkshire:England,48335,51.5217,-0.7177,Kelly@rdjbikes.com,810-939-2133,810-939-9564
+19,19,Changing Gears,Mr. David Baker,(Sales Agent),26705.65,1600 Hyde Crescent,,Lima:Lima:Peru,92750,-12.06,-77.0375,Baker@saveirosbike.com,714-450-7009,714-450-4103
+20,20,Wheels and Stuff,Mr. Dan Simpson,(Sales Agent),25556.105,2530 Bute Avenue,,Bucharest:Bucharesti:Romania,34666,44.4325,26.103889,Simpson@outdoors.com,813-539-9862,813-539-1602
+21,21,Uni-Cycle,Mr. Daryl Davidson,(Sales Manager),52428.1325,1008 Kerr Street,,Rio Grande:Rio Grande do Sul:Brazil,43042,-30,-53,Davidson@brasiliabike.com,614-759-8634,614-7592673
+22,22,Crank Components,Miss Lori McIsaac,(Sales Representative),8030.1075,8001 Oxford Street,,Southampton:Hampshire:England,61870,50.9025,-1.404167,McIsaac@salvadobikestore.com,217-359-3547,217-359-2074
+23,23,Corporate Cycle,Mrs. Annie Harper,(Sales Representative),27081.3125,2922 Cambridge Way,,Caracas:Distrito Federal:Venezuela,50392,10.480556,-66.903611,Harper@paradix.com,515-237-9995,515-237-0325
+24,24,Pedal Pusher Bikes Inc.,Mr. Tony Garneau,(Sales Associate),39277.3825,4537 Robson Way,Suite 2829,Clearwater:FL:USA,V3C 5U3,27.973611,-82.764167,Garneau@cyclefever.com,604-941-4617,604-941-1657
+25,25,Extreme Cycling,Mr. Zach Fabro,(Sales Manager),69819.1,1925 Glenaire Avenue,Suite 2705,Riyadh:Eastern Province:Saudi Arabia,34638,24.633333,46.716667,Fabro@dtom.com,813-539-4247,813-539-5445
+26,26,Blazing Saddles,Ms. Trisha Sanders,(Sales Manager),42709.86,4755 Seventieth Street,Suite 206,Wellington:Wellington:New Zealand,53226,-41.288889,174.777222,Sanders@dagcity.com,414-354-0524,414-354-7009
+27,27,The Great Bike Shop,Mr. Jon Witt,(Owner),15218.0925,1922 Beach Crescent,Suite 914,Islamabad:Islamabad:Pakistan,35857,33.693056,73.063889,Witt@wnd.com,205-430-1083,205-430-6075
+28,28,Pedals Inc.,Miss Patricia Manon,(Sales Manager),5000,8922 Field Street,,Lisbon:Lisbon:Portugal,53795,38.725278,-9.15,Manon@ppb.com,608-273-4233,608-273-7668
+29,29,Blazing Bikes,Mr. Gary Campbell,(Sales Associate),19193.6775,5202 Matthew Boulevard,,Winnipeg:MB:Canada,55334,49.884444,-97.146389,Campbell@bft.com,612-947-5737,612-947-5930
+30,30,Spokes for Folks,Mr. Brent Lansing,(Owner),47228.6375,2340 Alexander Way,,Hong Kong SAR:Hong Kong SAR:China,08557,22.3,114.2,Lansing@cyclessports.com,609-426-4114,609-426-6467
+31,31,To The Limit Biking Co.,Mr. Richard Grewal,(Sales Agent),32487.125,6042 Fell Court,,Kiev:Kiev:Ukraine,83649,50.45,30.523333,Grewal@bikingit.com,208-893-5621,208-893-9208
+32,32,Spokes,Mrs. Sheryl Rodgers,(Sales Associate),27154.9,964 Jester Court,Suite 2213,Cambridge:Cambridgeshire:England,60128,52.205,0.1225,Rodgers@crazyw.com,815-756-3253,815-756-5386
+33,33,Fulcrum Cycles,Dr. Markus Holt,(Sales Manager),12013.955,170 St. Joseph Boulevard,Suite 2023,Ciudad de Mexico:Distrito Federal:Mexico,22691,19.433333,-99.133333,Holt@hcc.com,540-662-9895,540-662-8254
+34,34,Off the Mountain Biking,Ms. Laurie Lee-Johnson,(Sales Manager),25000,192 St. Luke Boulevard,Suite 1724,Luxembourg:Luxembourg:Luxembourg,92725,49.814444,6.131667,Lee-Johnson@bss.com,714-450-3622,714-450-9776
+35,35,Mad Mountain Bikes,Miss Tracy Hanna,(Sales Representative),35009.2225,1995 Melbourne Street,Suite 2813,Ashford:Kent:England,83683,51.1465,0.8676,Hanna@galaxy.com,208-893-5874,208-893-2316
+36,36,Road Runners Paradise,Mrs. Julia Jackson,(Sales Representative),20747.2375,1053 Adelaide Street,,Berlin:Berlin:Germany,02880,52.52,13.405,Jackson@mindong.com,401-788-3133,401-788-9590
+37,37,Has Been Bikes (consignment),Ms. Jane Fasan,(Sales Agent),300,5307 Victoria Avenue,,Düsseldorf:Nordrhein-Westfalen:Germany,02827,51.233333,6.783333,Fasan@aic.com,401-788-2853,401-7889494
+38,38,Tyred Out,Mr. Donald Edwards,(Owner),18126.33,3687 Kerrisdale Street,Suite 2115,Castries:Castries:Saint Lucia,92721,14.016667,-60.983333,Edwards@ccsp.com,714-751-5999,714-751-3440
+39,39,Wheels Inc.,Mrs. Stacy Bodnar,(Sales Representative),21642.1375,7044 King Georfe Street,Suite 717,Abu Dhabi:Abu Dhabi:United Arab Emirates,50356,24.466667,54.366667,Bodnar@newpeople.com,515-237-9667,515-237-0461
+40,40,Cyclist's Trail Co.,Miss Alexa Quartermaine,(Sales Manager),15937.9575,4122 Panorama Place,Suite 2807,Toronto:ON:Canada,48320,43.741667,-79.373333,Quartermaine@globebike.com,810-939-0489,810-939-1611
+41,41,Deals on Wheels,Mr. Ron Cunningham,(Sales Manager),11717.235,6073 Cambie Court,Suite 1214,Leeds:West Yorkshire:England,60153,53.7975,-1.543611,Cunningham@haonannu.com,815-756-7678,815-756-4293
+42,42,Rad Bikes,Mr. Jerry Esler,(Sales Agent),41954.715,8217 Prince Edward Place,,São Paulo:São Paulo:Brazil,97068,-23.55,-46.633333,Esler@yuexiu.com,503-647-4484,503-647-1117
+43,43,Insane Cycle,Miss Nadine Scott,(Owner),8000,5198 Argus Place,,Berlin:Berlin:Germany,19442,52.52,13.405,Scott@jinjing.com,610-941-9254,610-941-1070
+44,44,Our Wheels Follow Us Everywhere,Mr. Robert Walter,(Sales Manager),38170.6475,1544 Venus Court,,Birmingham:West Midlands:England,60148,52.4793,-1.9029,Walter@pedales.com,815-756-6823,815-756-6831
+45,45,Cycles and Sports,Mr. Zachary Barbera,(Owner),38199.095,2290 Cambie Street,Suite 1025,Huntsville:AL:USA,V6G 4V3,34.693333,-86.560833,Barbera@bsj.com,604-685-0019,604-685-8514
+46,46,Backpedal Cycle Shop,Mr. Joe Lee,(Owner),25162.0525,743 Three Rivers Way,Suite 2214,München:Bayern:Germany,19178,48.140833,11.555,Lee@praguesports.com,215-928-1876,215-928-1120
+47,47,Karma Bikes,Mr. Kim Karl,(Sales Manager),9000,1516 Ohio Avenue,Suite 2621,Minas Gerais:Belo Horizonte:Brazil,43092,-19.816667,-43.95,Karl@csc.com,614-759-1164,614-759-0518
+48,48,Mountain Madmen Bicycles,Mr. Andrew Dong,(Sales Manager),28190.5225,9001 Metro Way,Suite 2010,Singapore:Singapore:Singapore,08513,1.283333,103.833333,Dong@rdsd.com,609-426-7758,609-426-3302
+49,49,Rocky Roadsters,Ms. Cindy Forester,(Sales Associate),28681.5275,1430 Hastings Boulevard,,Hamburg:Hamburg:Germany,19440,53.55,10,Forester@sel.com,610-941-1921,610-941-0696
+50,50,Crazy Wheels,Mr. Davy Douglas,(Sales Associate),38280.5275,8766 Glenaire Way,,Brown Deer:WI:USA,V3C 2Y8,43.172778,-87.977778,Douglas@cairobicycles.com,604-941-5469,604-941-1976
+51,51,Biking's It Industries,Mrs. Katie Cronin,(Sales Representative),30348.92,4643 Camstock Avenue,,Port Coquitlam:BC:Canada,V5C 7Z1,49.2625,-122.781111,Cronin@extercycle.com,604-298-4841,604-298-0157
+52,52,"Bikes, Bikes, and More Bikes",Miss Janice Pierson,(Sales Agent),25379.095,3952 Main Street,,Harare:Distrito Federal:Zimbabwe,50344,-17.829167,31.052222,Pierson@lifecycle.com,515-237-8975,515-237-4093
+53,53,Rough Terrain,Mr. Matt Trent,(Sales Associate),37488.7475,1502 Nelson Way,Suite 805,Lisbon:Lisbon:Portugal,53730,38.725278,-9.15,Trent@westerly.com,608-273-6250,608-273-1699
+54,54,Cyclopath,Mr. Scott Mueller,(Sales Agent),38492.56,647 Panorama Crescent,Suite 107,Milan:Lombardia:Italy,02816,45.466944,9.19,Mueller@donview.com,401-788-2360,401-788-8808
+55,55,Tandem Cycle,Mr. Gordon Bell,(Sales Agent),29404.385,7040 Park Place,Suite 1407,Bournemouth:Dorset:England,83650,50.72001,-1.87995,Bell@tomsbikes.com,208-893-0312,208-893-3282
+56,56,On The Edge Cyclery,Mr. Douglas McDougall,(Owner),9751.45,2145 Boardwalk,Suite 1214,Rome:Lazio:Italy,02896,41.893333,12.482778,McDougall@mks.com,401-788-7227,401-788-5215
+57,57,Tek Bikes,Miss Elizabeth Kawa,(Sales Agent),301568.22,8018 Meacon Crescent,Suite 2607,Düsseldorf:Nordrhein-Westfalen:Germany,19144,51.233333,6.783333,Kawa@wheel.com,215-928-6658,215-928-4038
+58,58,Making Tracks,Mrs. Rosie Forbes,(Sales Associate),32249.545,5511 Ocean Road,,Manchester:Greater Manchester:England,01767,51.507222,-0.1275,Forbes@greatoutdoors.com,508-287-1664,508-287-2802
+59,59,The Biker's Path,Miss Donna Marshall,(Sales Agent),29036.5725,3519 Beacon Avenue,Suite 2909,Sunderland:Co Durham:England,60152,54.906,-1.381,Marshall@bbs.com,815-756-4084,815-756-9795
+60,60,Bikes for Tykes,Mr. Dave Elkins,(Sales Manager),1800,7949 Elm Boulevard,Suite 3012,Madison:WI:USA,V6E 2S5,43.074722,-89.384167,Elkins@picadillycycle.com,604-681-9443,604-681-5300
+61,61,Benny - The Spokes Person,Miss Caitlin Jones,(Sales Agent),6091.96,1020 Oak Way,Suite 1711,Manila:Manila Metropolitan Area:Philippines,35861,14.5958,120.9772,Jones@lifecycle.com,205-430-3670,205-430-6031
+62,62,Bike Shop from Mars,Mr. John MacCloud,(Sales Manager),25873.245,7071 Dundas Crescent,Suite 1730,Ulaanbaatar:Ulaanbaatar:Mongolia,91338,47.920278,106.917222,MacCloud@hitdirt.com,805-375-0110,805-375-6707
+63,63,Feel Great Bikes Inc.,Mr. Craig Jacobson,(Sales Representative),40944.4655,3015 Delta Place,Suite 2601,Ottawa:ON:Canada,55367,45.424722,-75.695,Jacobson@sunrise.com,612-947-1362,612-947-3253
+64,64,SAB Mountain,Mr. Claus Main,(Owner),401000,Hauptstr. 29,,Prague:Prague:Czech Republic,CH-3006,50.0875,14.421389,Main@sourceone.com,41 45-207-65-45,41 045-207-65-46
+65,65,Platou Sport,Mr. Jonas Bergulfsen,(Owner),201000,Erling Skakkes gate 78,,Melbourne:Victoria:Australia,N-3290,-37.814167,144.963056,Bergulfsen@helsinkibicycle.com,47-22-323-023,47-22-356-442
+66,66,Piccolo,Mr. Georg Pipps,(Sales Manager),201000,Geislweg 14,,Newbury Park:CA:USA,A-5020,34.183889,-118.9525,Pipps@lillevtt.com,43-662-972262,43-62-972345
+67,67,Paris Mountain Sports,Mrs. Marie Bertrand,(Owner),300000,"265, boulevard Charonne",,Le Havre:Haute Normandie:France,75012,49.49,0.1,Bertrand@toulousevelos.com,33-4-92-72-04-89,33-4-92-72-04-98
+68,68,Magazzini,Mr. Giovanni Rovelli,(Sales Manager),201000,Via Ludovico il Moro 22,Suite 25,Washington:DC:USA,24100,46.73,-117.16,Rovelli@sportscenterville.com,39-81-9444-0922,39-81-9444-0934
+69,69,Furia,Mr. Lino Rodriguez,(Sales Manager),201000,Jardim das rosas n. 32,,Road Town:Tortola:British Virgin Islands,1900,18.431389,-64.623056,Rodriguez@lourdessport.com,351-1-35-42-534,351-1-35-42-566
+70,70,Folk och fä HB,Mrs. Marie Larsson,(Owner),201000,Åkergatan 24,,San José:San José:Costa Rica,S-844 67,9.9325,-84.08,Larsson@parismountain.com,069-53-46721,069-53-46133
+71,71,BBS Pty,Miss Victoria Ashworth,(Sales Representative),500000,45 Fauntleroy Circus,,Philadelphia:PA:USA,EC2 5NT,51.507222,-0.1275,Ashworth@gagnersports.com,44-171-551-1212,44-171-551-1321
+72,72,Cycle City Rome,Mr. Paolo Accorti,(Sales Representative),201000,Via Monte Bianco 34,,Atlanta:GA:USA,10100,33.748889,-84.39,Accorti@francesports.com,39-2-4242-4995,39-2-4242-4999
+73,73,Tienda de Bicicletas El Pardo,Ms. Alejandra Camino,(Sales Manager),201000,"Gran Vía, 1",,Santo Domingo:Santo Domingo:Dominican Republic,28001,18.466667,-67.95,Camino@sportsbeaucharmp.com,34-91-7456200,34-91-7456210
+74,74,Fahrkraft Räder,Mr. Sven Hoffman,(Sales Representative),500000,Heinrich-Held-Str. 190,,Grenoble:Rhône-Alpes:France,D-53001,45.171546,5.722387,Hoffman@centresportif.com,49-0777-9042-53,49-0777-9042-10
+75,75,     Belgium Bike         Co.,Mr. Pierre Renault,(Sales Representative),200000,Auguste Demaeghtlaan 9823,,Concord:MA:USA,47899,43.206667,-71.538056,Renault@calaiscyclisme.com,32-3-390-893,32-3-390-801
+76,76,Canal City Cycle,Mr. Sven Vandervoort,(Sales Agent),100000,13300 Damrak Street,Suite 2210,Pierre:SD:USA,NL-1076,44.374722,-100.320556,Vandervoort@velosbasse.com,31-20-4043-4011,31-20-4043-4788
+77,77,"Warsaw Sports, Inc.",Mr. Pavel Ropoleski,(Owner),100000,ul. Nowogrodzka 94/96,,Santiago:Providencia:Chile,02-537,-33.4375,-70.65,Ropoleski@bicyclettedunord.com,48-12-2323-2995,48-12-2323-2934
+78,78,Greenlane Bicycles,Mr. Hank Binford,(Sales Representative),90000,41 King Street,,Little Rock:AR:USA,,34.693333,-86.560833,Binford@boedeauxsports.com,353-03-9443-4343,353-03-9443-4334
+79,79,Helsinki Bicycle,Mr. Klaus Fostell,(Owner),668.9,Kalevankatu 346,,Stavanger:Rogaland:Norway,4344,58.97,5.731389,Fostell@sudcycles.com,358-9-2433-0332,358-9-2433-0337
+80,80,France Sports,Mr. Claude Houle,(Sales Representative),7544.4,"95, rue de la Fontaine",,Madrid:Madrid:Spain,50100,40.416944,-3.703333,Houle@velosbernard.com,33-2-10-39-34-89,33-2-10-39-34-33
+81,81,Centre Sportif Cherbourg,Mr. Georges Lasalle,(Sales Manager),16112.7,"918, rue Belle-vue",,Helsinki:Uusimaa:Finland,76610,60.170833,24.9375,Lasalle@bmx.com,33-2-32-49-58-05,33-2-32-49-58-33
+82,82,Vélos Basse Normandie,Mr. Marc Gaucher,(Owner),1073.8,"75, rue Haute",,Torino:Piedmonte:Italy,14000,45.079167,7.676111,Gaucher@sportsfrance.com,33-2-32-93-03-07,33-2-32-93-03-10
+83,83,Calais Cyclisme,Mrs. Michelle Laviolette,(Owner),1799.7,"7, rue du Cimetiere",,Amiens:Picardie:France,62100,49.892,2.299,Laviolette@sportsalsace.com,33-2-63-07-93-01,33-2-63-07-93-01
+84,84,Lille VTT,Ms. Suzanne LeClair,(Sales Manager),3371.72,"165, rue de l'Eglise",,Strasbourg:Alsace:France,59000,,,LeClair@centresportif.com,33-2-59-50-30-21,33-2-59-50-30-22
+85,85,Bicyclette du Nord,Ms. Elise Marchand,(Owner),8819.55,"16, rue des Chevaliers",,Rouen:Haute Normandie:France,62000,,,Marchand@velosemile.com,33-2-11-98-87-34,33-2-11-98-87-39
+86,86,Sports 4-Saisons,Ms. Manon Pedneault,(Owner),1191.4,"402, rue Prince Geroges",Bâtiment B,Metz:Lorraine:France,59140,49.120278,6.177778,Pedneault@laplace.com,33-2-33-09-02-76,33-2-33-09-02-72
+87,87,La Place,Mr. Jules Davignion,(Sales Representative),1611.7,"42, rue de l'Eurpoe",,Cherbourg:Basse Normandie:France,76100,49.63,-1.62,Davignion@velosferrier.com,33-2-23-40-20-04,33-2-23-40-23-90
+88,88,Vélos Emile,Mr. Emile Laroche,(Sales Manager),4366.5,"56, rue des Foyers",,Chartres:Centre:France,80080,48.456,1.484,Laroche@auvergnebicross.com,33-2-25-30-39-30,33-2-25-30-32-00
+89,89,Centre Sportif Delormier,Mr. Réal Delormier,(Owner),6713.5,"40, avenue Bernard",,Lille:Nord Pas-de-Calais:France,57050,,,Delormier@sportsfontainebleau.com,33-3-77-93-38-99,33-3-77-93-38-10
+90,90,Sports Alsace,Mr. Thomas Monpetit,(Sales Manager),52787.5,"11, rue Clemenceau",2ème étage,Paris:Ile de France:France,67100,,,Monpetit@orleansvtt.com,33-3-29-92-29-29,33-3-29-92-29-31
+91,91,Vélos Ferrier,Mrs. Veronique Ferrier,(Owner),2229.5,"187, rue de l'Ecole",,Amsterdam:Noord Holland:Netherlands,28000,52.372778,4.893611,Ferrier@dijonsudvelos.com,33-4-94-56-53-90,33-4-94-62-33-90
+92,92,Sports Fontainebleau,Ms. Anne DuPont,(Owner),3131.36,"8, rue des Romains",,Caen:Basse Normandie:France,77300,,,DuPont@mulhousevelos.com,33-1-73-03-47-93,33-1-73-03-47-93
+93,93,BMX Orléans,Miss Celeste Oulette,(Sales Representative),5438.7,"37, rue du Bois",,Warsaw:Warsaw:Poland,45100,52.23,21.011111,Oulette@bicyclettebourgesnord.com,33-2-64-87-66-88,33-2-64-87-66-90
+94,94,Orléans VTT,Mr. Christophe Jolicoeur,(Sales Manager),6655.9,"53, rue St-Paul",,Dublin:Dublin:Ireland,10000,53.35,-6.260278,Jolicoeur@vtt.com,33-1-34-44-76-01,33-1-34-44-76-05
+95,95,Dijon Sud Vélos,Ms. Suzette Ganger,(Sales Manager),1149.15,"82, chemin des Champs",,Bonn:Nordrhein-Westfalen:Germany,21000,,,Ganger@arsenault.com,33-3-55-04-05-09,33-3-55-04-05-33
+96,96,Mulhouse Vélos,Mr. Vincent de la Montagne,(Owner),5359.7,4 avenue de la Liberation,,Salzburg:Salzkammergut:Austria,68100,47.8,13.045,de la Montagne@centrepoirot.com,33-4-32-00-98-87,33-4-32-00-98-88
+97,97,Bicyclette Bourges Nord,Mr. Rejean Lallier,(Owner),2099.25,"79, avenue de la Gare",,Brussels:Brussels:Belgium,18000,50.846667,4.3525,Lallier@sports4saisons.com,33-4-10-92-09-09,33-4-10-92-09-33
+98,98,VTT La Rochelle,Mr. Jean Larouche,(Sales Manager),1079.7,"41, rue de Lormier",,Fontainebleau:Île-de-France:France,17000,,,Larouche@berlinbiking.com,33-3-54-92-84-98,33-3-54-92-84-34
+99,99,Bordeaux Sports,Mr. Gerard LePage,(Sales Representative),533.75,"120, avenue des Pins",,Bergamo:Lombardia:Italy,33100,45.695,9.67,LePage@bergtrails.com,33-5-34-42-94-09,33-5-34-42-94-22
+100,100,Arsenault et Maurier,Mr. Gaston Arsenault,(Sales Representative),12535.7,"40, rue St-Charles",,Bräcke:Jaemtland:Sweden,63000,63.283062,14.238281,Arsenault@fahrkraftrader.com,33-4-22-90-45-90,33-4-22-90-45-33
+101,101,Auvergne Bicross,Ms. Yolande Lafleur,(Sales Manager),5179.98,"43, rue des Arbres",,London:Greater London:England,03200,51.507222,-0.1275,Lafleur@hamburgrader.com,33-1-22-03-50-90,33-1-22-03-53-85
+102,102,Centre Poirot,Mrs. Julie-Anne Poirot,(Owner),3653.65,"10, rue Principale",9ème étage,Bourges:Centre:France,69009,47.0844,2.3964,Poirot@dortmondrad.com,33-4-11-19-10-49,33-4-11-19-10-57
+103,103,Sports France,Mr. Gétan Faucher,(Owner),6588.7,"40, rue de la Chapelle",,Mulhouse:Alsace:France,38000,47.75,7.34,Faucher@offroadbike.com,33-4-22-40-09-02,33-4-22-40-09-33
+104,104,Sud Cycles,Ms. Annette Denault,(Owner),68000.5,"34, rue. du Moulin",,La Rochelle:Poitou Charentes:France,42007,46.16,-1.15,Denault@leipzigfreiheit.com,33-1-53-03-05-08,33-1-53-03-05-24
+105,105,Toulouse Vélos,Mr. Jean-Paul Voltaire,(Sales Manager),46479.85,"63, rue de Soleuvre",,Dunkerque:Nord Pas-de-Calais:France,31100,51.042222,2.553056,Voltaire@superbike.com,33-5-21-07-45-97,33-5-21-07-45-98
+106,106,Sports Centre-ville,Ms. Louise Lacasse,(Sales Representative),65005,"11, boulevard Henri",,Calais:Nord Pas-de-Calais:France,34000,50.948056,1.856389,Lacasse@athensbicycle.com,33-4-23-44-09-98,33-4-23-44-09-31
+107,107,Lourdes Sports,Mr. Henri De Montigny,(Sales Manager),53370.14,"54, avenue Pierre",,Lisbon:Lisbon:Portugal,65100,38.725278,-9.15,De Montigny@eastbudapestsports.com,33-5-92-28-02-33,33-5-92-28-02-38
+108,108,Gagner Sports,Mr. Claude Antoine,(Sales Representative),5155.4,"71, rue du Chateau",,Troyes:Champagne-Ardenne:France,13010,48.2997,4.0792,Antoine@indiacycle.com,33-4-92-03-77-03,33-4-92-03-77-44
+109,109,Vélos Bernard,Ms. Marie Cloutier,(Owner),8933.9,"145, rue Francois",,Dijon:Bourgogne:France,83000,47.316667,5.016667,Cloutier@jakartasunrise.com,33-4-55-56-58-00,33-4-55-56-59-90
+110,110,Sports Beauchamp,Mr. Daniel Beauchamp,(Sales Manager),9557.02,"81, rue des Roses",,Orléans:Centre:France,06400,47.9025,1.909,Beauchamp@hillcrestcycle.com,33-4-22-58-68-40,33-4-22-58-68-41
+111,111,Bikefest,Mr. Stan Delaware,(Sales Agent),5879.7,4301 President Way,4th Floor,Managua:Managua:Nicaragua,72206,12.136389,-86.251389,Delaware@greenlane.com,520-990-8264,520-990-8260
+112,112,Biking and Hiking,Mr. Ukariah Jonstone,(Owner),65.7,76 Palm Drive,,Wellington:Wellington:New Zealand,85018,-41.288889,174.777222,Jonstone@dublincycle.com,520-710-1010,520-605-8914
+113,113,Bicycle Races,Mr. Seth Smithers,(Owner),659.7,3100 West Cactus Drive,14th Floor,Kathmandu:Kathmandu:Nepal,85234,27.71,85.32,Smithers@teavivoutdoors.com,602-494-2992,602-494-3992
+114,114,Fred's Bikes,Mr. Fred Danforth,(Owner),7874.25,4104 Summit Boulevard,,Pretoria:Gauteng (PWV):South Africa,80237,-25.746111,28.188056,Danforth@magazzini.com,303-556-2030,303-556-3030
+115,115,Phil's Bikes,Mr. Phil Franklyn,(Owner),27,31 Government Street,,Ankara:Ankara:Turkey,05667,39.93,32.85,Franklyn@bresciamountainers.com,860-479-0191,860-450-1030
+116,116,Colin's Bikes,Mr. Colin White,(Sales Agent),40.5,30988 Federal Way,,Moscow:Moscow:Russia,20011,55.755833,37.617222,White@milanobike.com,202-975-1567,202-979-1200
+117,117,Barry's Bikes,Mr. Barry Wilcox,(Owner),33.9,2099 East 57th Avenue,,Singapore:Singapore:Singapore,19850,1.283333,103.833333,Wilcox@cyclerome.com,302-310-1010,302-310-1016
+118,118,Tony's Better Bikes,Mr. Anthony Weatherhead,(Owner),2735.25,320 Oliver Avenue East,,Bangkok:Bangkok:Thailand,30337,3.7525,100.494167,Weatherhead@islandbike.com,678-381-9020,678-382-0404
+119,119,Ride Down A Mountain,Ms. Janet Xavier,(Sales Agent),1570.08,5400 Cliff Avenue,,Edinburgh:Lothian:Scotland,64152,55.948611,-3.200833,Xavier@yokohamabiking.com,913-943-3044,913-944-8922
+120,120,Bikes R Us,Mr. Wil Do,(Sales Agent),8159.4,201 Lloyd Drive,,Dublin:Dublin:Ireland,40503,53.35,-6.260278,Do@.com@nogoya.com,606-771-9020,606-772-9020
+121,121,Caledonia Cycle,Mr. Martin Caledonia,(Owner),27,4302 233rd Street West,,Belfast:County Antrim:Northern Ireland,70121,54.596389,-5.93,Caledonia@totoryken.com,318-669-2323,318-668-2323
+122,122,First Gear,Miss Xena Renfrew,(Owner),2826.9,329 Fernando Court,,Exeter:Devon:England,21228,50.725556,-3.526944,Renfrew@nishmotosports.com,301-233-9010,301-233-7402
+123,123,One Track Mind,Mr. Gordy Camel,(Sales Agent),46.5,776 Castle Road,Suite 100,London:Greater London:England,04401,51.507222,-0.1275,Camel@bendaimountain.com,207-881-7293,207-881-2990
+124,124,Biking Heaven,Ms. Jules Renquist,(Sales Agent),11553,870 Oriole Drive East,,Shanghai:Shanghai:China,63119,31.228611,121.474722,Renquist@nairobisports.com,314-201-2044,314-201-2045
+125,125,Family Biking Center,Mr. Vlad Spiers,(Sales Associate),355.26,5446 California Avenue West,,Tianjin:Tianjin:China,39213,39.1336,117.2054,Spiers@eurocycle.com,601-344-0292,601-345-0292
+126,126,World Of Tires,Miss Danielle Rubens,(Owner),413.85,170 Mountainview Street,Suite 25,Guangzhou:Guangdong:China,59601,23.13,113.26,Rubens@klcc.com,406-887-2040,406-887-2050
+127,127,Oympic Bikes,Mr. Aaron Zalapski,(Sales Manager),1036.2,4311 Elm Drive,,Chengdu:Sichuan:China,27701,30.66,104.063333,Zalapski@bialex.com,919-301-5019,919-301-5020
+128,128,"Bikes, Trikes and Rollerblades",Ms. Glenda Donnatelli,(Owner),46.5,12 Gordon Drive,Suite 330,Hong Kong SAR:Hong Kong SAR:China,58103,22.3,114.2,Donnatelli@geu.com,701-798-9122,701-799-9125
+129,129,Tears For Gears,Mr. Samuel Quaid,(Owner),46.5,1508 Renton Street,,Hong Kong SAR:Hong Kong SAR:China,68521,22.3,114.2,Quaid@dmcity.com,402-697-7203,402-698-7203
+130,130,Bombay Bicycle Club,Mr. Scott Boswell,(Sales Associate),14039.1,421 West Orca Street,,Hong Kong SAR:Hong Kong SAR:China,03103,22.3,114.2,Boswell@tla.com,603-957-4932,603-957-4940
+131,131,Biking Bums,Mr. Bobby Bigglesworth,(Sales Representative),2781.6,32011 Los Osos Boulevard,Suite 790,Singapore:Singapore:Singapore,87505,1.283333,103.833333,Bigglesworth@bdmc.com,505-554-5454,505-554-5809
+132,132,7 Bikes For 7 Brothers,Mr. Brent Cogswell,(Sales Manager),8819.55,52779 Xavier Boulevard,,Singapore:Singapore:Singapore,89102,1.283333,103.833333,Cogswell@tlmonterrey.com,702-970-6155,702-970-5517
+133,133,Against The Wind Bikes,Mr. Zak Davis,(Sales Manager),2409.46,5302 Freedom Way,,Singapore:Singapore:Singapore,14817,1.283333,103.833333,Davis@ucycle.com,607-901-2175,607-901-2177
+134,134,Hangin' Two,Mr. Jack Trueman,(Owner),72.9,89 Westerly Street,,Rio de Janeiro:Rio de Janeiro:Brazil,74103,-22.911111,-43.205556,Trueman@ksports.com,580-560-0293,580-560-2932
+135,135,Going in Circles,Mr. Kent Estes,(Sales Manager),7646.1,42011 Sullivan Road,,Hiroshima:Hiroshima Ken:Japan,29201,34.391389,132.451944,Estes@cccycle.com,843-721-9013,843-727-9203
+136,136,Off Road Bikes,Ms. Swoozie Fantermyer,(Owner),140.9,225 West Luxman Road,Suite 120,Kobe:Hyogo Ken:Japan,52115,34.690817,135.183078,Fantermyer@mountainview.com,605-201-6322,605-201-9901
+137,137,Cyclists for Life,Ms. Brenda Trent,(Owner),10605.18,666 Frederick Court,,Tokyo:Tokyo To:Japan,38103,35.689722,139.692222,Trent@sportsfever.com,910-244-5670,910-246-2042
+138,138,Discount Bikes,Ms. Andrea Dixon,(Sales Manager),1103.2,3100 Tower Street,,Acapulco:Guerrero:Mexico,84144,16.863611,-99.8825,Dixon@beachtrails.com,801-446-9300,801-446-9301
+139,139,"Canadian Bikes, Eh",Mr. Bob Tuque,(Owner),67.8,56 Emarcadero Avenue,Suite 10,Puerto Vallarta:Jalisco:Mexico,23220,20.645833,-105.222222,Tuque@billsbikes.com,804-810-0002,804-810-0002
+140,140,Bob's Bikes,Mr. Bob Zarcalister,(Owner),67.8,5011 Capital Avenue,,Christchurch:Canterbury:New Zealand,05401,-43.533333,173.616667,Zarcalister@forestedhills.com,802-338-6768,802-338-6769
+141,141,Mike's Bikes,Mr. Michael Cartman,(Sales Representative),101.7,3100 Aurora Avenue North,Suite 1000,Hamilton:Waikato:New Zealand,98110,-37.783333,175.283333,Cartman@.com,206-694-9012,206-693-2323
+142,142,Two Wheelin',Ms. Jann Dolap,(Owner),556.35,5007 White Street,,Lisbon:Lisbon:Portugal,25309,38.725278,-9.15,Dolap@deportedperez.com,304-929-2882,304-929-2888
+143,143,Down Under Bikes,Mr. Dave Flynn,(Sales Representative),1621.2,8004 Alton Drive,Suite 230,Huntsville:AL:USA,2061,34.693333,-86.560833,Flynn@towc.com,61-04-23556663,61-04-23556422
+144,144,Canberra Bikes,Mr. Craig Stobbs,(Owner),10662.75,7567 Caravan Street,,Blacklick:OH:USA,5353,39.995556,-82.811389,Stobbs@platousport.com,61-03-99231124,61-03-99231129
+145,145,Kangeroo Trikes,Mrs. Sandra Anderson,(Sales Representative),9594.7,78 East Phillips Street,Suite 300,Des Moines:IA:USA,2155,41.590833,-93.620833,Anderson@lbike.com,61-05-36629921,61-05-36623420
+146,146,         Bruce's Bikes,Mr. Bruce Hyde,(Owner),1138.09,7910 35th Avenue,,Eden Prairie:MN:USA,4774,44.854722,-93.470833,Hyde@.erpanamacom,61-02-99311424,61-02-99313434
+147,147,Peddles of Perth,Ms. Vanessa Jacobsen,(Sales Manager),8945.25,3200 Wilcrest Road,Suite 300,Madison:WI:USA,3326,43.074722,-89.384167,Jacobsen@lndeportes.com,61-04-30339148,61-04-30333433
+148,148,Koala Road        Bikes,Mr. Nathan Wu,(Sales Manager),6744.8,3001 Grantsview Street,Suite 12,San Diego:CA:USA,4600,32.715,-117.1625,Wu@manilabicycles.com,61-01-52311344,61-01-52314633
+149,149,Tasmanian Devil Bikes,Mr. Todd Llyod,(Sales Representative),1739.85,12 Eastdune Lane,,Austin:TX:USA,0912,30.267222,-97.743056,Llyod@warsawsports.com,61-01-32335455,61-01-32335433
+150,150,Bicicletas San Santiago,Mr. Ricardo Fernandes,(Sales Associate),10661.7,32111 Perez Road,,Irvine:CA:USA,34211,33.669444,-117.823056,Fernandes@souzelbike.com,56-2-2942-9021,56-2-2942-9009
+151,151,Paradise Sports,Mr. Johnny Horton,(Owner),1529.7,444 Victoria Avenue,,Des Moines:IA:USA,F3R 6T9,41.590833,-93.620833,Horton@evorafamily.com,284-987-4738,284-987-4740
+152,152,Brasilia Bikes Inc.,Mr. Felipe Silva,(Owner),14301.7,"Rua Fernando, 991",Suite 223,Sterling Heights:MI:USA,23293-300,42.580276,-83.030278,Silva@lisboncycle.com,55-85-3211-7382,55-85-3211-7342
+153,153,Bicicletas de Montaña La Paz,Mr. Juan Gomez,(Owner),6269.25,Torrevieja 1030,,DeKalb:IL:USA,4542,33.77,-84.23,Gomez@furia.com,55-092-89211,55-092-89201
+154,154,Royal Cycle,Mr. Henryk Featherstone,(Owner),3493.65,5402 Green Bay Road,Suite 500,Winchester:VA:USA,46557,39.183333,-76.166667,Featherstone@budapestsports.com,809-295-9023,809-295-6944
+155,155,Dhaka Bike Store,Mr. Junaid Panikkar,(Owner),4683.5,670/C Tejgaon I/A4350,,Eden Prairie:MN:USA,346457,44.854722,-93.470833,Panikkar@moscowbike.com,880-91-478-343,880-91-478-928
+156,156,Beach Cycle and Sport       ,Mr. Warren Donovan,(Owner),14463.35,779 Beach Drive,,Conshohocken:PA:USA,5466,40.077222,-75.301944,Donovan@foreveryoung.com,242-0-343-3043,242-0-343-3034
+157,157,Aruba Sport,Mr. Jerry Cashwell,(Owner),3239.85,Av. Cobre 1212,,DeKalb:IL:USA,655456,33.77,-84.23,Cashwell.@saveoncycles.com,58-09-8382-9292,58-09-8382-9299
+158,158,Bicicletas       Buenos Aires,Mr. Carlos Martinez,(Owner),55664.35,Sitio del Niño 8992,,Sterling Heights:MI:USA,6755 56,42.580276,-83.030278,Martinez@platinumsports.com,54-1-939-202022,54-1-939-202029
+159,159,"Barbados Sports, Ltd.",Mr. Luke Jones,(Sales Manager),4443.8,450 Wilmont Street,,Winchester:VA:USA,4532,39.183333,-76.166667,Jones@fastmover.com,246-877-2628,246-876-0284
+160,160,Pedales de Bogota,Mr. Fernando Valdez,(Sales Manager),32748.25,Vía Morelos 10001,,DeKalb:IL:USA,43533,33.77,-84.23,Valdez@unitedbikes.com,57-32-2029-2949,57-32-2029-2923
+161,161,Galaxy Outdoors,Mr. Jimmy Ng,(Owner),10425.55,127-190 Nathan Road,Mon Kwok,Kingston:RI:USA,664463,50.72001,-1.87995,Ng@jrbiking.com,852-6274-9201,852-6274-9297
+162,162,East Budapest Sports,Mr. Marianna Chose,(Sales Representative),59255.7,"3424 Budapest, Bartók Béla út 231",,Marseille:Provence-Alpes-Côte d’Azur:France,1062,42.2964,5.37,Chose@sanstone.com,32-20-9402-4994,32-20-9402-4995
+163,163,India Cycle and Co.,Mr. Paja Al Majid,(Owner),49774.5,H.O.- 2370 Janpath,,Toulon:Provence-Alpes-Côte d’Azur:France,3257,43.125833,5.930556,Al Majid@heuristic.com,91-22-4002-0322,91-22-4002-0333
+164,164,Jakarta Sunrise Sports,Mr. Wu Padang,(Owner),6333.4,Jl Aipda KS Tubun 56 F,,Cannes:Provence-Alpes-Côte d’Azur:France,4532,43.5513,7.0128,Padang@ministrysports.com,62-21-093-0223,62-21-093-0229
+165,165,Hillcrest Cycle,Mr. Lenny Kenwood,(Owner),87906.45,22 Green Avenue,,Phoenix:AZ:USA,,33.444167,-112.078889,Kenwood@equatorcycle.com,353-01-3932-0422,353-01-3932-0443
+166,166,Island Bikes,Mr. Jerry Andover,(Owner),38244.25,3411 Bexhill Road,,Kansas City:KS:USA,23001,39.099722,-94.578333,Andover@tomsplace.com,876-733-0062,876-733-9221
+167,167,Nishimoto Sports,Mr. Hiro Nishimoto,(Owner),40964.74,"Bridgeway Bldg, 2F",Hirakawa-cho,Bangor:ME:USA,129-2323,44.803056,-68.7675,Nishimoto@hikersbikers.com,81-3-5212-2321,81-3-5212-0327
+168,168,Nairobi Sports Center,Ms. Ren Janmohammed,(Owner),6923.7,3451 Parliament Road,,Jackson:MS:USA,646411,32.298889,-90.184722,Janmohammed@coastalline.com,254-2-202-4921,254-2-202-4934
+169,169,"Cairo Bicycles, Inc.",Mr. Elan Abbibi,(Owner),10361.7,PO Box: 33417,,Port Coquitlam:BC:Canada,786333,49.2625,-122.781111,Abbibi@tienda.com,20-023-023114,20-023-023143
+170,170,Ruedas de Santo Domingo,Mr. Antonio Santos,(Owner),63365.4,Seminario 5531 Carretas,,Hightstown:NJ:USA,685533,40.268457,-74.525804,Santos@folkochfa.com,809-203-203,809-233-232
+171,171,Bicicletas San Jose,Mr. Julio Morenzo,(Owner),56343.9,Agustín de Iturbide 772,,Vancouver:BC:Canada,45678,49.260833,-123.113889,Morenzo@sab.com,506-239-0932,506-239-0939
+172,172,Prague Sports,Mr. Eric Kenelek,(Sales Manager),10551.7,PO Box 2321,,Philadelphia:PA:USA,9864,51.507222,-0.1275,Kenelek@taipeisports.com,420-002-2042,420-002-2044
+173,173,Copenhagen Sports and Cycle,Mr. Sven Van Bauer,(Sales Representative),97459.7,Gammel Mont 4341,,Blacklick:OH:USA,1050,39.995556,-82.811389,Van Bauer@bangkiksports.com,45-3530-3055,45-3530-3034
+174,174,Superbicicletas Ecuador Ltd.,Mr. Ricardo Martinez,(Owner),2553.8,Ejército Nacional No. 1450,,Conshohocken:PA:USA,755457,40.077222,-75.301944,Martinez@ankarabicycle.com,593-3-303-200,593-3-303-211
+175,175,Athens Bicycle Co.,Mr. Andres Arnadis,(Sales Representative),11100.9,PO Box 211966,,Lourdes:Aquitaine:France,1124,43.094167,-0.046944,Arnadis@kiev-north.com,30-1-7754-4040,30-1-7754-4041
+176,176,Tel Aviv Outdoors,Mr. David Azur,(Owner),43063.56,3435 Tel Giborim,,Denver:CO:USA,6799,39.7392,-104.9849,Azur@uaecycle.com,972-3-403-30411,972-3-403-30234
+177,177,En ruedas Panama,Mr. Fernando Perez,(Sales Agent),2934.94,Cl 20 San Francisco 91,,Perth:Western Australia:Australia,346668,-31.9558,115.8597,Perez@karmabikes.com,507-023-0031,507-023-0023
+178,178,Islamabad Bike Stores,Ms. Sanji Jamal,(Sales Manager),5486.7,"423, Shah Jamal Road",,Churchill:Victoria:Australia,4346,-37.814167,144.963056,Jamal@backpedalcycle.com,92-21-2000-0294,92-21-2000-0234
+179,179,Manila Bicycle Store,Ms. Maria Hernandez,(Owner),11300.7,43121 Quezon Avenue,,Hobart:Tasmania:Australia,34008,-42.880556,147.325,Hernandez@tyredout.com,63-455-303-0221,63-455-303-0223
+180,180,Deportes Perez,Mr. Paolo Perez,(Owner),7645.85,"Avda. Amador Guerrero, 3220",,Sydney:New South Wales:Australia,4524576,-33.867778,151.21,Perez@hasbeenbikes.com,505-311-403-0082,505-311-403-0098
+181,181,Sports Fever,Mr. Duke Manson,(Sales Manager),43321.5,1102 Greystone Drive,,Seattle:WA:USA,,47.609722,-122.333056,Manson@cycliststrail.com,64-7-3903-4003,64-7-3903-4004
+182,182,Kathmandu Sports,Mr. Ngan Xu,(Owner),7613.4,4325 Tielu Street,,Columbia:SC:USA,7493,34.000556,-81.034722,Xu@dealsonwheels.com,977-099-20332,977-099-23444
+183,183,Lima Norte Deportes,Mr. Ricardo Montabella,(Owner),26934.5,"Av El Dorado, 4211",,Brisbane:Queensland:Australia,5665,-27.467778,153.028056,Montabella@ourwheels.com,51-1-2042-2043,51-1-2042-2049
+184,184,Eurocycle,Mr. Pierre Van Kroger,(Sales Agent),6835.2,"39, rue du Baerendal",,Helena:MT:USA,L-3360,33.279722,-86.856111,Van Kroger@radbikes.com,352-45-204-203,352-45-204-210
+185,185,Kuala Lumpur Central Cycle,Mr. Rennie Chung,(Owner),3985.13,"No. 4902 Lengkok Paya Terubong,",11060 Air Itam,Raleigh:NC:USA,478886,35.854167,-78.761944,Chung@insanecycle.com,60-3-0303-0990,60-3-0303-0922
+186,186,Ulaanbaatar Cycle,Mr. Po-Yan Ying,(Owner),5223.5,8-9/F Fu Da Bidg. 2342,,Tulsa:OK:USA,,36.131389,-95.937222,mgr@wheels.com,976-1-392-2492,976-1-392-2423
+187,187,Deportes Mexico City,Mr. Julio Estes,(Sales Manager),1445.1,Vía Morelos 3343,,Fargo:ND:USA,24421,46.873333,-96.827222,Estes@spokesnwheels.com,52-3-230-9993,52-3-230-9343
+188,188,Forever Young Sports,Mr. Cam Jackson,(Owner),23180.1,5011 Sunset Avenue West,Suite 132,Oranjestad:St. George:Aruba,3342,,,Jackson@posercycles.com,758-422-092,758-422-099
+189,189,Equator Cycle,Mr. Chuck Van Morrison,(Owner),56500.55,53990 Sable Court,,Cairo:Cairo:Egypt,2341,30.044444,31.235833,Van Morrison@bikecellar.com,27-11-234-0400,27-11-234-0440
+190,190,Ankara Bicycle Company,Mr. Fatih Cekirge,(Sales Manager),43000.5,PO Box 2121,,Quito:Pichincha:Ecuador,443665,,,Cekirge@alleycat.com,90-212-2399-3403,90-212-2399-0093
+191,191,Moscow Bike Company,Mr. Alex Federov,(Sales Agent),43786.5,"Perovskaya ul., 3452",,Nassau:New Providence:Bahamas,7655433,,,Federov@cgate.com,7-095-2349-2042,7-095-2349-2991
+192,192,Sanstone Cycle,Mr. Young Lee,(Sales Manager),3300,24 Evergreen Square,Suite B,Bogota:Cundinamarca:Colombia,311435,4.711111,-74.072222,Lee@hookedhelmet.com,65-321-0072,65-321-4545
+193,193,Budapest Sports,Mr. Dario Ionascu,(Owner),23246.55,Blvd. N. Balcescu 2322,,Dhaka:Dhaka:Bangladesh,4532211,,,Ionascu@clearairtrans.com,40-1-2332-8585,40-1-2332-8580
+194,194,Save-on-Cycles,Ms. Julianne Derby,(Owner),70000,245 Mill Avenue,,Buenos Aires:Mendoza:Argentina,3634422,-34.603333,-58.381667,Derby@whistlertrntals.com,966-1-3404-3941,966-1-3404-3979
+195,195,Bangkok Sports,Mr. Lee Chang,(Owner),70000.5,133/7 Yaowarat Road,,Copenhagen:Jutland:Denmark,6865,55.676111,12.568333,Chang@trailblazers.com,66-2-9400-2022,66-2-9400-2322
+196,196,Hanoi Bike Company,Mr. Twan Ha,(Owner),15492.32,Ho Chi Minh 3411,,Johannesburg:Gauteng (PWV):South Africa,43HJG,-26.197222,28.041944,Ha@bikesntrikes.com,84-4-992-20202,84-4-992-20234
+197,197,Tienda de Repuestos Caracas,Mrs. Maria Santos,(Owner),36000,Av San Jorge 2011,,Johannesburg:Gauteng (PWV):South Africa,32111,-26.197222,28.041944,Santos@rockshocks.com,58-2-3434-7728,58-2-3434-7771
+198,198,UAE Cycle,Mr. Vivek Parmar,(Sales Representative),95900.85,Post Box: 278,,Tel Aviv:Tel Aviv:Israel,3453,,,Parmar@mountainmadmen.com,971-4-9673-9987,971-4-9673-9997
+199,199,Harare Cycle,Mr. Dwight Mallel,(Owner),22600.23,4290 Shell Aveneue,,Auckland:Auckland:New Zealand,403943,-36.84556,174.74,Mallel@offroadbike.com,263-4-943-9034,263-4-943-9035
+200,200,RG Bikes,Mr. Bob Smith,(Sales Manager),1254.56,100 High Street,Park Barn,Guildford:Surrey:England,GU2 1DD,51.2365,-0.5703,Bob@rgbikes.co.uk,320-222-1211,320-333-2223
+201,201,Kiev-North Sports,Mr. Leon Demidov,(Sales Representative),84500.55,"Krzhizhanovskogo ul., 5663",,Athens:Evia Evvoia:Greece,6865986,37.984167,23.728056,Demidov@psychocycle.com,380-44-923-2302,380-44-923-2345
+202,202,Sunrise Cycle,Mrs. Josephine McGillan,(Sales Representative),1690.05,40 Chartwell Drive,,Huntsville:AL:USA,BH7 7EL,,,McGillan@bikeaholics.com,44-135-342-2932,44-135-342-2922
+203,203,Source One Cycle,Ms. Tina Waldorf,(Sales Agent),1119.5,19 Old Christchurch Road,,Kingston:RI:USA,BH1 2EW,50.72001,-1.87995,Waldorf@pathfinders.com,44-334-449-0291,44-334-449-2893
+204,204,Wheel to Wheel,Mr. Brent Butterfield,(Sales Representative),5912.7,199 Bisley Street,,Vancouver:BC:Canada,SO15 1AG,49.260833,-123.113889,Butterfield@rowdyrims.com,44-171-377-9766,44-171-377-9321
+205,205,McDonald Klein Sports,Mr. Trent McDonald,(Owner),3618,Suite 245,40 Epping road,Burnaby:BC:Canada,BS1 3AD,49.266667,-122.966667,McDonald@greatbike.com,44-341-211-0431,44-341-211-0233
+206,206,Tom's Bikes,Mr. Thomas Dadwood,(Sales Representative),36330,14 Kipling Avenue,,Newbury Park:CA:USA,NG1 5RH,34.183889,-118.9525,Dadwood@madmountain.com,44-377-573-0294,44-377-920-1331
+207,207,Hit the Dirt,Ms. Samantha Raintree,(Owner),4637,91 Bruton Road,,Madison:WI:USA,CB2 3DT,,,Raintree@offthemountain.com,44-334-530-0193,44-334-530-0930
+208,208,LifeCycle,Mr. Derek Young,(Owner),6644.19,59 Beacon Hill Road,,Bern:Cantons:Switzerland,LS1 6ET,46.948056,7.4475,Young@fulcrum.com,44-131-321-8432,44-131-321-8445
+209,209,Westerly Sports,Miss Shelly Cornwall,(Owner),47,Floor 11,3 Old Duke Circus,Eden Prairie:MN:USA,B2 4JQ,44.854722,-93.470833,Cornwall@spokes.com,44-171-341-0763,44-171-645-0765
+210,210,Donview Bike Co.,Mr. Russ Clemmens,(Sales Agent),35,41 South Gate,St Matthews House,Kingston:RI:USA,SR6 8DB,50.72001,-1.87995,Clemmens@tothelimit.com,44-171-449-9201,44-171-449-9204
+211,211,Platinum Sports,Mr. Timothy Gilligan,(Sales Agent),10800,31 West Colton Drive,,Bridgetown:Bridgetown:Barbados,EH2 2PB,,,Gilligan@spokesfolks.com,44-131-330-6981,44-131-330-5100
+212,212,Dublin Cycle Centre,Mr. Shane O'Tool,(Owner),2727.3,6 South Moor Lane,,Tempe:AZ:USA,,33.444167,-112.078889,O'Tool@herculesmountain.com,353-1-7973-9201,353-1-7973-9237
+213,213,Top 'o' the World Cycle,Mr. Mike O'Sullivan,(Owner),8967.71,156 Slaight Road,Suite 102,Canberra:New South Wales:Australia,BT2 7AP,-35.293056,149.126944,O'Sullivan@pedals.com,44-1232-462002,44-1232-422942
+214,214,Bicycle Basics,Mr. Drew Broadwin,(Sales Manager),72000,59 Old Stone Road,,Johannesburg:Gauteng (PWV):South Africa,CF1 2EQ,-26.197222,28.041944,Broadwin@roadrunners.com,44-1452-029-0292,44-1452-029-0442
+215,215,Great Outdoors,Ms. Jackie Ball,(Owner),3024.85,17 West Port Circle,,DeKalb:IL:USA,M60 2DS,33.77,-84.23,Ball@blazingsaddles.com,44-131-319-3600,44-131-319-3643
+216,216,Exeter Cycle Source,Mr. Sid Moore,(Owner),1030.08,55 Cornwall Drive,,Nampa:ID:USA,EX4 3SP,43.574722,-116.563611,Moore@extremecycling.com,44-181-866-0293,44-181-866-2032
+217,217,Picadilly Cycle,Mr. Julian Windsor,(Owner),5321.25,29 West Chesterfield Avenue,,Concord:MA:USA,SW19 4UE,43.206667,-71.538056,Windsor@corporatecycle.com,44-171-531-0221,44-171-531-0223
+218,218,Life Cycle Centre,Mr. Rod Filmore,(Owner),8819.55,Sunflower House,1 Featherstone Way,Des Moines:IA:USA,SL6 2PZ,41.590833,-93.620833,Filmore@crankcompenents.com,44-181-221-0328,44-181-223-9320
+219,219,Cycle Fever,Mr. Jake Cosgrove,(Sales Representative),6629.1,2002 Bloor Street West,Suite 102,DeKalb:IL:USA,M6S 4X9,33.77,-84.23,Cosgrove@unicycle.com,416-766-5007,416-761-5007
+220,220,Wheels 'n' Deals,Ms. Sylvia Canton,(Sales Manager),2850.85,168 Creswell Drive,,Winchester:VA:USA,H9W 1E7,39.183333,-76.166667,Canton@wheelsnstuff.com,514-697-0077,514-695-9901
+221,221,Halifax Cycle Centre,Mr. Grant Targell,(Sales Manager),1489.05,1946 Herring Cove Road,,Hightstown:NJ:USA,B3R 1V9,40.268457,-74.525804,Targell@changinggears.com,902-477-9666,902-477-3201
+222,222,Dag City Cycle,Mr. Dag Jozwell,(Sales Representative),1276.74,2975 Portage Street,,Eden Prairie:MN:USA,R3J 0N9,44.854722,-93.470833,Jozwell@blazingbikes.com,204-949-6053,204-948-0012
+223,223,Don't Tread On Me,Mr. Don Julian,(Owner),5879.7,20011 Slater Street,,Nampa:ID:USA,K1A 3W9,43.574722,-116.563611,Julian@bikesbrothers.com,613-235-6617,613-230-9826
+224,224,Min Dong Toy Store,Mrs. Fang Zhou,(Sales Manager),6467.35,"411 Yanan Rd, #301",,DeKalb:IL:USA,200239,33.77,-84.23,Zhou@rockyroadsters.com,86-10-5353-7878,862-10-5353-7879
+225,225,JinJing Sports,Mr. Fan Zhang,(Owner),13434.9,585 Jian She Road,,Conshohocken:PA:USA,356001,40.077222,-75.301944,Zhang@onetrachmind.com,86-10-9536-0909,86-10-9536-0910
+226,226,Yue Xiu Bicycles,Mr. XinQiang Wang,(Owner),17484.75,777 Jian Guo Avenue,,Nampa:ID:USA,370999,43.574722,-116.563611,Wang@hangintwo.com,86-21-3492-3294,86-21-3492-3296
+227,227,Hao Nannu Outdoors,Mr. Dong Sheng Yu,(Owner),8819.55,888 Chuan Qian Road,,Tualatin:OR:USA,250895,45.374808,-122.770067,Yu@familybiking.com,86-21-8392-3283,86-21-8392-3232
+228,228,Globe Bike,Mr. David Chan,(Sales Manager),10245.55,383-407 Hennessy Road,Wan Chai,Kingston:RI:USA,573222,50.72001,-1.87995,Chan@worldoftires.com,852-4667-9393,852-4667-9393
+229,229,Newpeople Biking Ltd.,Mr. Edward Yan,(Owner),7981.41,600 Jordan Road,Kowloon,Santa Ana:CA:USA,863356,33.740833,-117.881389,Yan@olympicbikes.com,852-3778-2929,852-3778-2927
+230,230,C&C Sports People,Mr. Mark Wang,(Owner),2546.12,"Floor 3, 100 East Point Road",Causeway Bay,Des Moines:IA:USA,357677,41.590833,-93.620833,Wang@bikestrikes.com,852-3838-1919,852-3838-1929
+231,231,AIC Childrens,Mr. Ng Chun Yuen,(Owner),5879.7,303-404 Pricecess Building,Central,Sterling Heights:MI:USA,439433,42.580276,-83.030278,Yuen@tearsforgears.com,852-3998-2044,852-3832-1071
+232,232,Fast Mover Pte Ltd,Mr. Tan Boon Cheng,(Owner),4751,108 International Business Park,,Hong Kong SAR:Hong Kong SAR:China,609929,22.3,114.2,Cheng@caledonia.com,65-533-0932,65-533-4395
+233,233,United Bikers,Mrs. Mary Lim,(Owner),26489.3,338 Robinson Road,,Budapest:Budapest:Hungary,368911,47.4925,19.051389,Lim@bikingbums.com,65-775-4677,65-775-0372
+234,234,JR Biking Limited,Mr. Lee Kah Seng,(Owner),1019.4,1800 Exeter Road,,New Delhi:New Delhi:India,239732,28.613889,77.208889,Seng@firstgear.com,65-209-3341,65-209-3001
+235,235,Heuristic Beach Pte Ltd,Mr. Abdul Rahman Bin Fandi,(Owner),1823.65,2048 Alexandra Road,Suite 100,Jakarta:Jawa Bara West Java:Indonesia,119954,-6.175,106.8275,Fandi@againstthewind.com,65-227-3432,65-227-4677
+236,236,Ministry of Sports,Mr. Ben Govindansamy,(Sales Manager),8819.55,16 Maxwell Road,,Dublin:Dublin:Ireland,169111,53.35,-6.260278,Govindansamy@citycyclists.com,65-455-2311,65-455-0038
+237,237,Salvado Bike Store,Mr. Adriano Pinto,(Sales Manager),5879.7,Eurico Lara 423/524,,Clearwater:FL:USA,90880-390,27.973611,-82.764167,Pinto@goingincircles.com,55-61-2934-3849,55-61-2934-1119
+238,238,Brasilia Outdoors,Mr. Americo Machado,(Sales Agent),13466.5,"Teixeira Soares, 895",Santa Tereza,Tualatin:OR:USA,31015-040,45.374808,-122.770067,Machado@cyclistslife.com,55-85-1032-1093,55-85-1032-2323
+239,239,Rio De Janeiro Bikers,Mr. André Pedro,(Owner),133551.3,"Av. Rio Branco, 95 / 7º andar",,Irvine:CA:USA,20093-900,33.669444,-117.823056,Pedro@discountbikes.com,55-11-4929-4929,55-11-4929-4343
+240,240,Saveiros SA,Mr. André da Silva,(Owner),5879.7,"Teixeira Soares, 2223",,Blacklick:OH:USA,20093-400,39.995556,-82.811389,da Silva@canadianbikes.com,55-85-2392-0193,55-85-2392-3323
+241,241,     Outdoors      Ltd,Mr. André Fontes,(Owner),2378.35,"Rua Silex, 165",,Champaign:IL:USA,04082-001,40.115,-88.272778,Fontes@bobsbikes.com,55-61-2929-3723,55-61-2929-3223
+242,242,Hamburg Räder,Mr. Arne Schmeth,(Sales Representative),1787.5,Iltisstrasse 24,,Montpellier:Languedoc-Roussillon:France,D-45001,43.6119,3.8772,Schmeth@mikesbikes.com,49-4042-2333-71,49-4042-2333-10
+243,243,Leipzig Freiheit,Mr. Folkert Heinz,(Owner),7829.29,Bahnstrasse 342-46,,Clermont-Ferrand:Auvergne:France,D-10044,45.7831,3.08424,Heinz@twowheelin.com,49-2024-8855-08,49-2024-8855-10
+244,244,Super Bike,Mr. Frank Kroger,(Sales Representative),1072.8,Geisbergstr. 311,,Lyon:Rhône-Alpes:France,D-22121,45.76,4.84,Kroger@bombaybicycle.com,49-6196-9559-22,49-6196-9559-10
+245,245,Berlin Biking GmBH.,Mr. Gunter Schatz,(Owner),2989.35,D-80042 Weissenfeld,,Bordeaux:Aquitaine:France,D-80042,44.84,-0.58,Schatz@bennythespokes.com,49-3220-0485-51,49-3220-0485-10
+246,246,Dortmont Rad Kaufhaus,Mr. Holger Warnecke,(Sales Representative),59468.94,CMR 4434,,St. Etienne:Rhône-Alpes:France,D-40029,48.8465,2.348,Warnecke@bikesbikes.com,49-3944-0432-57,49-3944-0432-10
+247,247,Offroad Bike Verleih,Mr. Juergen Rudolf,(Owner),1623.15,Koningswinterer Strasse 800,,Vichy:Auvergne:France,D-14059,46.1278,3.4267,Rudolf@roughterrain.com,49-3022-0486-14,49-3022-0486-10
+248,248,Berg auf Trails GmBH.,Mr. Peter Schmit,(Sales Manager),2939.29,CMR 4490,,Toulouse:Midi-Pyrénées:France,D-40608,42.6045,1.444,Schmit@cyclopath.com,49-6400-0443-23,49-6400-0443-10
+249,249,Milano Bike Store,Mr. Angelo Nucchi,(Sales Agent),6755.8,Via Anagnina 483,,Dover:DE:USA,42898,39.128333,-75.464722,Nucchi@tandemcycle.com,39-10-2849-1038,39-10-2849-1000
+250,250,Brescia Mountainers,Mr. David Giovanni,(Sales Manager),181444.66,"Via Angelo Maj, 22",,Concord:CT:USA,42210,35.410278,-80.585278,Giovanni@ontheedge.com,39-55-9202-9592,39-55-9202-9534
+251,251,Nogoya Paths,Mr. Hatsuko Kumasaka,(Sales Agent),8819.55,C.ITOH Bldg. 12-1,Minato-Ku,Lexington:KY:USA,106-4553,38.046389,-84.496944,Kumasaka@tek.com,81-1-3321-3336,81-1-3321-0192
+252,252,Yokohama Biking Fans,Mr. Miyako Katayama,(Owner),2003.1,Yokosuka Naval Base-Building 1955 Room 8,,New Orleans:LA:USA,124-2293,29.976111,-90.078333,Katayama@bikingheaven.com,81-1-3022-0349,81-1-3022-2100
+253,253,Bendai Mountain Bikers,Mr. Tomoaki Tanahashi,(Sales Manager),14076.8,A.ITOH Bldg. 15-3,Minato-Ku,St. Louis:MO:USA,232-9333,38.627222,-90.197778,Tanahashi@bikerspath.com,81-2-6676-0746,81-2-6676-4302
+254,254,Totory Ken Cyclists,Mr. Yoshio Shimoyama,(Owner),5913.6,Bell Ace Building 8F,,Baltimore:MD:USA,112-3293,39.289444,-76.615278,Shimoyama@bikesrus.com,81-2-2221-3606,81-2-2221-0771
+255,255,Tiempo Libre Monterrey,Mr. Jose Garcia,(Sales Manager),8819.55,Thiers 3251-34,,Portsmouth:NH:USA,34323,36.834444,-76.341667,Garcia@bikeshopmars.com,52-5-553-0933,52-5-553-0934
+256,256,Tiempo Libre Acapulco,Mr. Manuel Hernandez,(Sales Manager),9595.7,"Apaseo El Alto 11, Col Valle del Tepeyac",,Taos:NM:USA,04929,36.393889,-105.576667,Hernandez@feelgreat.com,52-5-300-0113,52-5-300-0134
+257,257,Bicicletas  de Montaña Cancun,Ms. Ana Maria Fernandez,(Owner),1551.18,Puebla # 903 Primer Piso,,Las Vegas:NV:USA,02994,36.175,-115.136389,Fernandez@bikefest.com,52-2-255-8965,52-2-255-9403
+258,258,Guadalajara en ruedas,Ms. Laura Torres,(Sales Manager),83664.8,Hernandez y Hernandez No.699,,Rome:NY:USA,92041,34.26,-85.185,Torres@bikinghiking.com,52-1-357-9443,52-1-357-9433
+259,259,Bicycles Alex,Ms. Alex Alvarez,(Owner),62627.65,Rufino Tamayo 395,,Lincoln:NE:USA,03853,40.809167,-96.678056,Alvarez@bicycleraces.com,52-5-207-1010,52-5-207-1011
+260,260,New Trails,Mr. George Robins,(Sales Manager),1716.2,181 Wellesley Street,,Salt Lake City:UT:USA,,40.760833,-111.891111,Robins@fredsbikes.com,64-3-4920-2044,64-3-4920-3421
+261,261,Beach Trails and Wheels,Mr. Alastair Jackson,(Sales Representative),2944,374 Great Road,,Montpelier:VT:USA,,44.259444,-72.575833,Jackson@philsbikes.com,64-2-9112-2031,64-2-9112-2033
+262,262,Forested Hills,Mr. Gary Birch,(Sales Agent),1067.3,4 Bond St.,,Charleston:WV:USA,,32.783333,-79.931944,Birch@colinsbikes.com,64-1-4044-2904,64-1-4044-2934
+263,263,Bill's Bikes,Mr. Bill Anderson,(Owner),2459.4,8035 Owl Road,,Richmond:VA:USA,,37.540833,-77.436667,Anderson@barrysbikes.com,64-9-0014-4041,64-9-0014-2334
+264,264,Lisbon Cyclists,Mr. Jorge Faustino,(Owner),329.85,"Av. Artur Soares, 828 - 1700",,Brasilia:Distrito Federal:Brazil,1700,-15.793889,-47.882778,Faustino@tonysbikes.com,351-1-49-09-441,351-1-49-09-850
+265,265,Evora Family Sports,Mr. André Palacio,(Sales Manager),3638.01,"R. D. Estefƒnia, 12 - 2000 Lisb",,La Paz:La Paz:Bolivia,1900,-16.495833,-68.133333,Palacio@ridedownamountain.com,351-41-43-46-902,351-41-43-46-990
+266,266,Souzel Bike Rentals,Mr. Adriano Malva,(Sales Agent),1472.27,Polo Tecnologico Lote 39,,Hamilton:Pembroke Parish:Bermuda,1600-480,,,Malva@makingtracks.com,351-44-09-23-677,351-44-09-23-690
+267,267,Tom's Place for Bikes,Mr. Jimmy Hatch,(Sales Representative),36400.67,545 Peachtree Road,,Kingston:Kingston:Jamaica,2385,17.971389,-76.793056,Hatch@tiendadp.com,27-15-923-0300,27-15-923-0301
+268,268,Coastal Line Bikes,Ms. Caron Ryans,(Owner),1130.4,22th Flr  Safren House,,Tokyo:Tokyo To:Japan,3001,35.689722,139.692222,Ryans@hanoibike.com,27-11-294-0001,27-11-294-4453
+269,269,Hikers and Bikers,Mr. Steven Sharp,(Owner),8300.8,1844 Beach Avenue,,Nairobi:Nairobi:Kenya,4201,-1.286389,36.817222,Sharp@bicyclebasics.com,27-13-940-0302,27-13-940-0309
+270,270,Mountain View Sport,Mr. Fran Durant,(Sales Manager),65231.7,1443 Main Street,Suite 990,Memphis:TN:USA,,35.1175,-89.971111,Durant@hararecycle.com,64-9-2939-2995,64-9-2939-2934
+271,271,Zoom Cycles,Ms. Terri Scott,(Sales Representative),345.22,Red House,Red Road,London:Greater London:England,SW1 8EE,51.507222,-0.1275,info@zoom.org,320-222-1644,320-678-4446
